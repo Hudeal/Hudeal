@@ -2,6 +2,8 @@ Hi, I’m @Hudeal
 
 I am interested in freelancing work.
 
+I have am currently learning Data Analysis
+
 I’m currently learning Python and I have Higher Certificate in Information Systems (Engineering) at Eduvos (formerly Pearson Institute of Higher Education ) in South Africa. 
 
 I am interested in collaborating on Java projects I am willing to learn.
